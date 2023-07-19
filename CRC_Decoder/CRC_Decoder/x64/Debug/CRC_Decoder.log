@@ -1,0 +1,4 @@
+﻿  CRC_Decoder.c
+C:\Users\user\Desktop\4학년 1학기\무선이동네트워크및5G\프로그래밍 과제\결과물\CRC_Decoder\CRC_Decoder\CRC_Decoder.c(21,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\4학년 1학기\무선이동네트워크및5G\프로그래밍 과제\결과물\CRC_Decoder\CRC_Decoder\CRC_Decoder.c(41,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CRC_Decoder.vcxproj -> C:\Users\user\Desktop\4학년 1학기\무선이동네트워크및5G\프로그래밍 과제\결과물\CRC_Decoder\x64\Debug\CRC_Decoder.exe
